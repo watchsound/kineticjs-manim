@@ -1,9 +1,21 @@
-in original code, uglify does not support es6, when i try to upgrade ,
-i faced some error.
+# some kineticjs components commonly used for math animation. 
 
-so: instead of using uglify,  use terser.
+these concepts come from Manim, a popular python lib for math animation:
+- LineTip, 
+- Medicion, 
+- Speedometer, 
+- Highlighter
 
- > npm install grunt-terser --save-dev
- > npm install grunt-banner --save-dev
+some concepts come from paperjs:
+- Ellipse
+- Polygon
+- Rect
 
- and modify Gruntfile.js correspondingly.
+also, it supports features commonly used in my course material design:
+- Checkbox
+- Balloon,
+- Menu
+- Sprite
+- VScrollView
+- ShapeText
+- TextInput
