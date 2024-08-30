@@ -1,0 +1,44 @@
+{
+  "name": "r9",
+  "version": "4.0.0",
+  "devDependencies": {
+    "chai": "1.9.2",
+    "connect": "3.2.0",
+    "grunt-banner": "^0.6.0",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-contrib-concat": "0.5.0",
+    "grunt-contrib-copy": "~0.6.0",
+    "grunt-contrib-jshint": "0.10.0",
+    "grunt-contrib-nodeunit": "0.4.1",
+    "grunt-contrib-uglify": "0.6.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-replace": "0.7.9",
+    "grunt-shell": "~1.1.1",
+    "grunt-terser": "^2.0.0",
+    "jsdoc": "~3.3.0-alpha9",
+    "mocha": "1.21.4",
+    "uglify-es": "^3.3.9"
+  },
+  "keywords": [
+    "canvas",
+    "animations",
+    "graphic",
+    "html5"
+  ],
+  "browser": {
+    "canvas": false,
+    "jsdom": false
+  },
+  "bugs": {
+    "url": "https://github.com/watchsound/r9/issues"
+  },
+  "readmeFilename": "README.md",
+  "main": "r9.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watchsound/r9.git"
+  },
+  "author": "Hanning Ni",
+  "license": "MIT"
+}

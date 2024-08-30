@@ -1,0 +1,32 @@
+{
+  "name": "R9",
+  "version": "4.0.0",
+  "homepage": "http://R9.com/",
+  "authors": [
+    "Hanning"
+  ],
+  "description": "R9 is exteions of Kinetic.js, an HTML5 Canvas JavaScript framework that enables high performance animations, transitions, node nesting, layering, filtering, caching, event handling for desktop and mobile applications, and much more.",
+  "keywords": [
+    "canvas",
+    "animations",
+    "graphic",
+    "html5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests",
+    "doc-includes",
+    "src",
+    "*.yml",
+    ".jshitrc",
+    ".npmignore",
+    ".gitignore",
+    "Gruntfile.js",
+    "bower-template.json",
+    "server.js",
+    "presentation-schedule.md"
+  ],
+  "main": "r9.js"
+}
